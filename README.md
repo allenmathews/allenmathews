@@ -5,7 +5,7 @@ I am Allen! I love to build applications using JavaScript and am a Blockchain Et
 
 - 🔭 I’m currently working on getting my Front End Web Development Certification (JavaScript + Ruby)
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on making some cool new apps to help people buy the right houses
+- 👯 I’m looking to collaborate on making some new apps 
 - 🤔 I’m looking for help with solidity projects
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/allenmathews397
