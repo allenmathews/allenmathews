@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Allen! I love to build applications using JavaScript and am a Blockchain Ethusiast.
+I am Allen! I love to build applications using JavaScript and a Blockchain Ethusiast.
 
 
 - 🔭 I’m currently working on getting my Front End Web Development Certification (JavaScript + Ruby)
