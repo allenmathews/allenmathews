@@ -13,3 +13,6 @@ I am Allen! I love to build applications using JavaScript and a Blockchain Ethus
 - ⚡ Fun fact: I completed the Mimo web development course 
 
 [![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenmathews)](https://github.com/allenmathews/github-readme-stats)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenmathews&hide=javascript,css,scss,html&theme=tokyonight)
+
