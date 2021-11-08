@@ -14,5 +14,5 @@ I am Allen! I love to build applications using JavaScript and a Blockchain Ethus
 
 [![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenmathews)](https://github.com/allenmathews/github-readme-stats)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenmathews&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenmathews&hide=javascript,css,scss,html&theme=tokyonight)
 
