@@ -11,3 +11,5 @@ I am Allen! I love to build applications using JavaScript and a Blockchain Ethus
 - 📫 How to reach me: https://twitter.com/allenmathews397
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I completed the Mimo web development course 
+
+[![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=allenmathews)](https://github.com/allenmathews/github-readme-stats)
