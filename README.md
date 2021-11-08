@@ -16,3 +16,4 @@ I am Allen! I love to build applications using JavaScript and a Blockchain Ethus
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allenmathews&theme=tokyonight)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=allenmathews)](https://github.com/allenmathews/github-readme-stats)
