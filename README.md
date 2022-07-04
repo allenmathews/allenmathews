@@ -1,8 +1,7 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+<h3 align="center">A passionate full stack developer who enjoys building applications using the latest front end technologies!</h3>
 
-I am Allen! I love to build applications using the latest front end technologies!
-
-- 🔭 I’m currently working on getting my Front End Web Development Certification (JavaScript + Ruby)
+- 🔭 I’m currently working on **<strong>getting my Front End Web Development Certification (JavaScript + Ruby)</strong>**
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/allenmathews397
