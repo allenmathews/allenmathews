@@ -17,4 +17,6 @@
 [![](https://raw.githubusercontent.com/allenmathews/allenmathews/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/allenmathews/allenmathews/main/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allenmathews&show_icons=true&locale=en&layout=compact" alt="allenmathews" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allenmathews&show_icons=true&locale=en" alt="allenmathews" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allenmathews&" alt="allenmathews" /></p>
 
