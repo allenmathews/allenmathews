@@ -1,10 +1,11 @@
 <h1 align="center"> Hi there 👋 </h1>
-<h3 align="center">I am Allen, a passionate full stack developer who enjoys building applications!</h3>
+<h3 align="center">I am Allen, a passionate full-stack cloud developer who enjoys building applications!</h3>
+<h2 align="center">In my spare time, I am read books on non-fiction and enjoy learning about Blockchain technology</h2>
 
 - 🔭 I’m currently working on **<strong>getting my Front End Web Development Certification (JavaScript + Ruby)</strong>**
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React.js/Vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: https://twitter.com/allenmathews397
+- 📫 How to reach me: https://twitter.com/AllenMa71924263
 
 
 <h2 align="center"> My Toolkit: </h2>
