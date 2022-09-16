@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **<strong>getting my Front End Web Development Certification (JavaScript + Ruby)</strong>**
 - 🌱 I’m currently learning React.js/Vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: https://twitter.com/allenmathews397
 
 
 <h2 align="center"> My Toolkit: </h2>
