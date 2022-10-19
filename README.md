@@ -2,8 +2,8 @@
 <h2 align="center">I am Allen, a passionate full-stack cloud developer who enjoys building applications!</h2>
 <h3 align="center">In my spare time, I am enjoy reading books on non-fiction and learning about Blockchain technology</h3>
 
-- 🔭 I’m currently working on **<strong>getting my Front End Web Development Certification (JavaScript + Ruby)</strong>**
-- 🌱 I’m currently learning React.js/Vue.js
+- 🔭 I’m currently working on **<strong>Vue.js</strong>**
+- 🌱 I’m currently learning Nuxt.js/Ruby on Rails
 - 💬 Ask me about anything
 
 
