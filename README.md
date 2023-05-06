@@ -3,7 +3,7 @@
 <h3 align="center">In my spare time, I am enjoy reading books on non-fiction and learning about Blockchain technology</h3>
 
 - 🔭 I’m currently working on **<strong>Vue.js</strong>**
-- 🌱 I’m currently learning Nuxt.js/Ruby on Rails
+- 🌱 I’m currently learning Ruby on Rails
 - 💬 Ask me about anything
 
 
